@@ -10,6 +10,6 @@
 <p>This premium tool is totally free to use, fully custom developed from scratch by <a href="https://isohaibkhan.github.io/" target="_blank">Sohaib S. Khan</a></p>
 <h5>File Size:</h5>
 <ul>
-  <li><b>Original File Size:</b> 16.4 KB</li>
-  <li><b>Zip File Size:</b> 5.95 KB</li>
+  <li><b>Original File Size:</b> 13.6 KB</li>
+  <li><b>Zip File Size:</b> 5.24 KB</li>
 </ul>
